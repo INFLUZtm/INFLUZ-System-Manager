@@ -6,4 +6,4 @@ Primera versión funcional de INFLUZ™ System Manager.
 
 Requisitos: 
 - Windows 10/11
-- - Ejecutar como administrador
+- Ejecutar como administrador
